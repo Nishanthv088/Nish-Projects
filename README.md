@@ -42,17 +42,9 @@ Key Insights :
  Forecast model achieves ~90.16% accuracy, indicating reliable predictions.
 
 Technologies Used :
-Python (Pandas, NumPy, Matplotlib, FB Prophet)
+Python (Pandas, NumPy, Matplotlib, Seaborn, FB Prophet)
 Power BI (Visualization & Dashboarding)
 Excel (Data Cleaning & Exploration)
-
-Repository Structure :
-📂 Sales-Forecasting-Project  
-│── 📄 README.md  # Project overview  
-│── 📂 Data       # Raw & cleaned data files  
-│── 📂 Notebooks  # Python scripts for analysis & forecasting  
-│── 📂 Reports    # Project summary & insights  
-│── 📂 PowerBI    # Power BI dashboard file  
 
 How to Use the Project :
 Clone this repository:
